@@ -1,3 +1,9 @@
+<div align="right">
+
+🇬🇧 **English** | 🇷🇺 [Русский](README_ru.md)
+
+</div>
+
 # kde-quickshell-wallpaper
 A window manager inspired wallpaper changer for KDE Plasma 6 written on quickshell (QML)
 
