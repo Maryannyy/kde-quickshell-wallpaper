@@ -20,3 +20,25 @@ A window manager inspired wallpaper changer for KDE Plasma 6 written on quickshe
 1. Clone the repository (Or download manually from release tags)
 ```bash
 git clone https://github.com/Maryannyy/kde-quickshell-wallpaper.git
+```
+2. Make it executable
+```bash
+cd kde-quickshell-wallpaper
+chmod +x install.sh
+```
+3. Launch the installer
+```bash
+./install.sh
+```
+4. Follow the installer instructions
+## Uninstalling
+1. Make it executable
+```bash
+cd kde-quickshell-wallpaper
+chmod +x uninstall.sh
+```
+2. Launch the uninstaller
+```bash
+./uninstall.sh
+```
+It will uninstall the app automatically 
