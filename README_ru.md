@@ -25,7 +25,7 @@
 
 1. Клонируйте репозиторий (или скачайте вручную из тегов релизов)
 ```bash
-git clone [https://github.com/Maryannyy/kde-quickshell-wallpaper.git](https://github.com/Maryannyy/kde-quickshell-wallpaper.git)
+git clone https://github.com/Maryannyy/kde-quickshell-wallpaper.git
 ```
 2. Сделайте файл исполняемым
 ```bash
